@@ -1,3 +1,10 @@
+/*preloader*/ 
+
+
+
+/*content*/ 
+
+
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
